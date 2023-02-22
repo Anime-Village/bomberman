@@ -1,4 +1,4 @@
-# SocketIO-Bomberman
+# BomberMan Multiplayer
 An online Bomberman game
 
 ### USE: ###
@@ -17,20 +17,5 @@ Action | Keyboard
 **RIGHT** | D
 **Bomb** | B
 **Block** | V
-
-### Demo ###
-[Demo](http://biren.eu:8080 "Demo")
-
-### Updates ###
- + Add a server clock to synchronise calculations
- + Synchronise explosions
- + Better bombs
- + Every player has a username
- + Put the timer down if nobody is connected 😴
-
-### TODO ###
-1. Now I have to test **everything** again
-2. Limit requests
-3. As always, **IMPROVEMENTS** :-)
 
 ![screen shot 2017-02-02 at 21 07 14](https://cloud.githubusercontent.com/assets/11445459/22566326/c115cbdc-e98b-11e6-8648-b0b6535ef787.png)
